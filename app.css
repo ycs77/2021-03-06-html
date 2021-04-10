@@ -1,0 +1,24 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.box-red {
+  background-color: rgb(255, 65, 65);
+}
+
+.box-blue {
+  background-color: rgb(65, 84, 255);
+}
+
+.big-box {
+  position: relative;
+  width: 1000px;
+  margin: auto;
+}
+
+.por {
+  position: fixed;
+  top: 30px;
+  left: 50px;
+}
